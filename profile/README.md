@@ -5,7 +5,7 @@ Presenting nlimeres vault. This is the "vault" where all [@nlimeres](https://git
 
 You can contact with @nlimeres at:
 
-- mail: mailto:hello@nlimeres.com
-- vault mail: mailto:vault@nlimeres.com
+- mail: [hello@nlimeres.com](mailto:hello@nlimeres.com)
+- vault mail: [vault@nlimeres.com](mailto:vault@nlimeres.com)
 - discord: [@nlimeres](https://discord.com/users/777146292710277130)
 
